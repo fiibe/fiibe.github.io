@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fiibe.github.io/rwS/sitemap.rwS.gz
